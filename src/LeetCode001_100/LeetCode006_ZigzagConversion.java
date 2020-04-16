@@ -11,7 +11,7 @@ public class LeetCode006_ZigzagConversion {
 		String s = "leetcodeishiring";
 		System.out.println(convert(s, 3));
 
-		
+
 	}
 	
 	public static String convert(String s, int numRows) {
